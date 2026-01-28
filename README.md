@@ -17,5 +17,6 @@ Dev focado em construir produto com qualidade: arquitetura, performance e DX.
 - Repo: https://github.com/jobnow/pluga-challenge
 
 ## Contato
-- LinkedIn: (seu link)
-- Email: (seu email)
+- LinkedIn: https://www.linkedin.com/in/ricardogomes-tech/
+- Email: ricardogomesweb@gmail.com
+- WhatsApp: 11 94302-5543
