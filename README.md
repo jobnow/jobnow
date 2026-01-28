@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ricardo Gomes (jobnow)
 
-<!--
-**jobnow/jobnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev focado em construir produto com qualidade: arquitetura, performance e DX.
 
-Here are some ideas to get you started:
+## Stack
+- Node.js, TypeScript, NestJS
+- React / Next.js
+- Docker, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+### API Voucher (NestJS + DDD)
+- DDD, testes, Swagger, organização de camadas
+- Repo: https://github.com/jobnow/api-voucher
+
+### Pluga Challenge (Full-stack)
+- Rails + Next.js + Docker Compose + testes
+- Repo: https://github.com/jobnow/pluga-challenge
+
+## Contato
+- LinkedIn: (seu link)
+- Email: (seu email)
